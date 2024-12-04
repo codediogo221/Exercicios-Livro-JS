@@ -20,7 +20,6 @@ function buscaBinaria(lista, item) {
     return -1;
 }
 
-//const listaNumeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 let listaNumeros = []
 for (let i = 0; i <= 50; i++) {
     listaNumeros[i] = i 
